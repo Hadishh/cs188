@@ -38,5 +38,4 @@ The assignment can be divided into 3 parts:
 3. in part 3, ghosts don't move independently from each other, so the model is described
    by a Dynamic Bayes Net; the problem is still solved by using particle filtering;
    the difference is that rather than using `numGhosts` independent `ParticleFilter`s,
-   we now have a single `JointParticleFilter` whose particles are tuples of positions 
-   (one for each ghost).
+   we now have a single `JointParticleFilter` whose particles are tuples of positions.
