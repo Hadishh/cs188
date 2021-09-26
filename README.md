@@ -25,7 +25,7 @@ MiniMax ed ExpectiMax to implement a PacMan agent.
 a PacMan agent using reinforcement learning.
 
 ### Project 4 - Ghostbusters
-[Project 4](https://inst.eecs.berkeley.edu/~cs188/fa18/project4.html#Q4) is about 
+[Project 4](https://inst.eecs.berkeley.edu/~cs188/fa18/project4.html) is about 
 Hidden Markov Models and Particle Filtering.
 
 Problem: the maze is populated with `numGhosts` _invisible_ ghosts and we want PacMan to
